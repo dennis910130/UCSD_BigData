@@ -1,5 +1,4 @@
 ### AWS credentials: ####
-<<<<<<< HEAD
 # Change entries here to match your own #
 # Get values for the first two entries from the "Security crediential" Tab
 # Under in the menu under your name.
